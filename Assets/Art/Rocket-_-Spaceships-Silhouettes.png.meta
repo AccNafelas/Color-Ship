@@ -1,0 +1,1771 @@
+fileFormatVersion: 2
+guid: e60c04597e8e8c44494d0fff62f30fe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8931976838731275505
+    second: Rocket-_-Spaceships-Silhouettes_0
+  - first:
+      213: -307620437417458321
+    second: Rocket-_-Spaceships-Silhouettes_1
+  - first:
+      213: 2350248716205306822
+    second: Rocket-_-Spaceships-Silhouettes_2
+  - first:
+      213: -1175997078230245084
+    second: Rocket-_-Spaceships-Silhouettes_3
+  - first:
+      213: 4245317392069636733
+    second: Rocket-_-Spaceships-Silhouettes_4
+  - first:
+      213: 7931885857370695479
+    second: Rocket-_-Spaceships-Silhouettes_5
+  - first:
+      213: 7816237522230756659
+    second: Rocket-_-Spaceships-Silhouettes_6
+  - first:
+      213: -1147544658836981116
+    second: Rocket-_-Spaceships-Silhouettes_7
+  - first:
+      213: -7963980590806234780
+    second: Rocket-_-Spaceships-Silhouettes_8
+  - first:
+      213: -7871023769950849965
+    second: Rocket-_-Spaceships-Silhouettes_9
+  - first:
+      213: -658857883061765842
+    second: Rocket-_-Spaceships-Silhouettes_10
+  - first:
+      213: -7648745846363846159
+    second: Rocket-_-Spaceships-Silhouettes_11
+  - first:
+      213: 7123718805669446071
+    second: Rocket-_-Spaceships-Silhouettes_12
+  - first:
+      213: 3829606049210095921
+    second: Rocket-_-Spaceships-Silhouettes_13
+  - first:
+      213: 3933801807717193005
+    second: Rocket-_-Spaceships-Silhouettes_14
+  - first:
+      213: -3418034153195527276
+    second: Rocket-_-Spaceships-Silhouettes_15
+  - first:
+      213: -3964234164739205645
+    second: Rocket-_-Spaceships-Silhouettes_16
+  - first:
+      213: -5797738033153050672
+    second: Rocket-_-Spaceships-Silhouettes_17
+  - first:
+      213: -628249416897501695
+    second: Rocket-_-Spaceships-Silhouettes_18
+  - first:
+      213: 2825007524090214782
+    second: Rocket-_-Spaceships-Silhouettes_19
+  - first:
+      213: 4944293507058795851
+    second: Rocket-_-Spaceships-Silhouettes_20
+  - first:
+      213: 8482375573287235884
+    second: Rocket-_-Spaceships-Silhouettes_21
+  - first:
+      213: 2219119955564981664
+    second: Rocket-_-Spaceships-Silhouettes_22
+  - first:
+      213: 8686705719173723787
+    second: Rocket-_-Spaceships-Silhouettes_23
+  - first:
+      213: -389831082137379601
+    second: Rocket-_-Spaceships-Silhouettes_24
+  - first:
+      213: 2663873524406598892
+    second: Rocket-_-Spaceships-Silhouettes_25
+  - first:
+      213: -3334613657300694909
+    second: Rocket-_-Spaceships-Silhouettes_26
+  - first:
+      213: 3007229796403991076
+    second: Rocket-_-Spaceships-Silhouettes_27
+  - first:
+      213: 8358931040807579365
+    second: Rocket-_-Spaceships-Silhouettes_28
+  - first:
+      213: 8153582092725315261
+    second: Rocket-_-Spaceships-Silhouettes_29
+  - first:
+      213: -8076325049428749773
+    second: Rocket-_-Spaceships-Silhouettes_30
+  - first:
+      213: 6197038242119907302
+    second: Rocket-_-Spaceships-Silhouettes_31
+  - first:
+      213: -5900253116750636451
+    second: Rocket-_-Spaceships-Silhouettes_32
+  - first:
+      213: 7443749054614883983
+    second: Rocket-_-Spaceships-Silhouettes_33
+  - first:
+      213: -4444051941939685914
+    second: Rocket-_-Spaceships-Silhouettes_34
+  - first:
+      213: 14253038173773178
+    second: Rocket-_-Spaceships-Silhouettes_35
+  - first:
+      213: -4180022555407995643
+    second: Rocket-_-Spaceships-Silhouettes_36
+  - first:
+      213: 96106384224146582
+    second: Rocket-_-Spaceships-Silhouettes_37
+  - first:
+      213: -6689507136257384645
+    second: Rocket-_-Spaceships-Silhouettes_38
+  - first:
+      213: 7623071337295883303
+    second: Rocket-_-Spaceships-Silhouettes_39
+  - first:
+      213: 4777566938480719114
+    second: Rocket-_-Spaceships-Silhouettes_40
+  - first:
+      213: 1875479614471101641
+    second: Rocket-_-Spaceships-Silhouettes_41
+  - first:
+      213: -7514057243392656655
+    second: Rocket-_-Spaceships-Silhouettes_42
+  - first:
+      213: 4857603510419399735
+    second: Rocket-_-Spaceships-Silhouettes_43
+  - first:
+      213: 3935683814823658714
+    second: Rocket-_-Spaceships-Silhouettes_44
+  - first:
+      213: -8371678532840099166
+    second: Rocket-_-Spaceships-Silhouettes_45
+  - first:
+      213: -7759355774990208402
+    second: Rocket-_-Spaceships-Silhouettes_46
+  - first:
+      213: -6035353172663748316
+    second: Rocket-_-Spaceships-Silhouettes_47
+  - first:
+      213: 25204003495054713
+    second: Rocket-_-Spaceships-Silhouettes_48
+  - first:
+      213: -3081832844975072627
+    second: Rocket-_-Spaceships-Silhouettes_49
+  - first:
+      213: -4043601855698954797
+    second: Rocket-_-Spaceships-Silhouettes_50
+  - first:
+      213: 9014565550556711645
+    second: Rocket-_-Spaceships-Silhouettes_51
+  - first:
+      213: -4347141285005398267
+    second: Rocket-_-Spaceships-Silhouettes_52
+  - first:
+      213: -2026034294149768626
+    second: Rocket-_-Spaceships-Silhouettes_53
+  - first:
+      213: -6377219575784477370
+    second: Rocket-_-Spaceships-Silhouettes_54
+  - first:
+      213: 7227394168335838436
+    second: Rocket-_-Spaceships-Silhouettes_55
+  - first:
+      213: 3320029841778503643
+    second: Rocket-_-Spaceships-Silhouettes_56
+  - first:
+      213: -7878606182294830189
+    second: Rocket-_-Spaceships-Silhouettes_57
+  - first:
+      213: 8181882975598397077
+    second: Rocket-_-Spaceships-Silhouettes_58
+  - first:
+      213: 910954898958093865
+    second: Rocket-_-Spaceships-Silhouettes_59
+  - first:
+      213: 5818195397017927018
+    second: Rocket-_-Spaceships-Silhouettes_60
+  - first:
+      213: -2176923033916346731
+    second: Rocket-_-Spaceships-Silhouettes_61
+  - first:
+      213: 3749134831156086583
+    second: Rocket-_-Spaceships-Silhouettes_62
+  - first:
+      213: 1079179647368695075
+    second: Rocket-_-Spaceships-Silhouettes_63
+  - first:
+      213: -3506764078493224363
+    second: Rocket-_-Spaceships-Silhouettes_64
+  - first:
+      213: 6285158659010468697
+    second: Rocket-_-Spaceships-Silhouettes_65
+  - first:
+      213: -6752278306125709640
+    second: Rocket-_-Spaceships-Silhouettes_66
+  - first:
+      213: 8455672186481879122
+    second: Rocket-_-Spaceships-Silhouettes_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3354
+        width: 236
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca06c8a80934b04ea7f7f3c33df88fa
+      internalID: 8931976838731275505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3406
+        width: 278
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53d9483c5ec1a49a8eb236c4771dfc
+      internalID: -307620437417458321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_2
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3383
+        width: 284
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fcb4a011a103a479e4d43386d4bc77
+      internalID: 2350248716205306822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_3
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3415
+        width: 287
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de925ceb552ebf4486b3bc50f6dd2ed
+      internalID: -1175997078230245084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_4
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 3395
+        width: 282
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26729f54c70bb7446aaffefbcfdda4c2
+      internalID: 4245317392069636733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_5
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 3418
+        width: 158
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e765e8f13d2954d9efbaf3e155cb6a
+      internalID: 7931885857370695479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_6
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 3704
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e9591d1737dc44b7b32bca3cd6115
+      internalID: 7816237522230756659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_7
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3401
+        width: 231
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530f6f87f74b304a8b83400b6f80581
+      internalID: -1147544658836981116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_8
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 3421
+        width: 243
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a43754b6302ea4cbbe30a26da772c1
+      internalID: -7963980590806234780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_9
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 3389
+        width: 168
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0c36cf2399b4498e2000f46f92429
+      internalID: -7871023769950849965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_10
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 3406
+        width: 225
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ebfec4800af44aa82939d692f1323
+      internalID: -658857883061765842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_11
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 3534
+        width: 90
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6233e5637f7c73468b0f10497e34cfa
+      internalID: -7648745846363846159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_12
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3398
+        width: 142
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05530ebcb3ba9d240849f55bac46826b
+      internalID: 7123718805669446071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_13
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 3354
+        width: 155
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1925a541b1df16544b9c2aeb1f614597
+      internalID: 3829606049210095921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2748
+        width: 261
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba098bb6453a5746a262ea6f574bf92
+      internalID: 3933801807717193005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2690
+        width: 227
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a9ab14d7c41a4086466e3ca28d208
+      internalID: -3418034153195527276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2731
+        width: 156
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025062604158ab4bb10a61326832193
+      internalID: -3964234164739205645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_17
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2720
+        width: 258
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13afd73ebf941241a1d92f532d5ad47
+      internalID: -5797738033153050672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_18
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2737
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d51794cefcb544a2ac36d4b07e777
+      internalID: -628249416897501695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_19
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2754
+        width: 121
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d90c377aab6943bf570b744ee897a
+      internalID: 2825007524090214782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_20
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2737
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df1d0e5536a3e46ab7094bd9dcf82f
+      internalID: 4944293507058795851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_21
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 2716
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5db78943d54f647bbb623c82c24f03
+      internalID: 8482375573287235884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2722
+        width: 220
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc7dcc3c2799041b4dc68328f4f5cb
+      internalID: 2219119955564981664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_23
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 2688
+        width: 290
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8e7fb982cd1f4a9411016526f851c
+      internalID: 8686705719173723787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_24
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2690
+        width: 296
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9219541c63d5b41965c3e4280de5c7
+      internalID: -389831082137379601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_25
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 2705
+        width: 260
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb255f63a8a2349a8cfbd6efabb01a
+      internalID: 2663873524406598892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_26
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2699
+        width: 255
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911334edcc3a7c841a8c656f3bc22a55
+      internalID: -3334613657300694909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_27
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 2705
+        width: 229
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f57309704fa14db680dc12e99d50e
+      internalID: 3007229796403991076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_28
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 2615
+        width: 298
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27221ce8806ea419435d5f8749227a
+      internalID: 8358931040807579365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1801
+        width: 321
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac716d719544442a0bf0487628a545
+      internalID: 8153582092725315261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1850
+        width: 358
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07095c89586bf714e937b26ca2960481
+      internalID: -8076325049428749773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_31
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2235
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa32bb72ee6514ca86f158733fc89b
+      internalID: 6197038242119907302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_32
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1911
+        width: 334
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92824ba431404643933c495eb960809
+      internalID: -5900253116750636451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_33
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1908
+        width: 319
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f07701e474ab478ab5d04d376ac7a
+      internalID: 7443749054614883983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_34
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1917
+        width: 315
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0139879855f0d9340bfc47b82cf5dc4d
+      internalID: -4444051941939685914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_35
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1925
+        width: 262
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3409fe678c5749a663b8afff6e9db
+      internalID: 14253038173773178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_36
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1960
+        width: 286
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade293772e5acd4197ae7a9a26a2de6
+      internalID: -4180022555407995643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_37
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1868
+        width: 475
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab91616c3ab698b48bc4f5ac56795fe9
+      internalID: 96106384224146582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_38
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 1823
+        width: 284
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7579927660169ed4c892758c8a008921
+      internalID: -6689507136257384645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_39
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 1908
+        width: 396
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe147caf14ea6428c20363e6ae7b5a
+      internalID: 7623071337295883303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_40
+      rect:
+        serializedVersion: 2
+        x: 5329
+        y: 1908
+        width: 220
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00da00f2814204f9f050d43f5cbc67
+      internalID: 4777566938480719114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_41
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 1797
+        width: 208
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78b59724e7f74458561acfe5c081d3
+      internalID: 1875479614471101641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_42
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1905
+        width: 222
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc60839ae71404fbfa600f3791c032
+      internalID: -7514057243392656655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 926
+        width: 272
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b441579a144d64dbcfd68e3c2a48c7
+      internalID: 4857603510419399735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 969
+        width: 220
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848427acb8d099149ac45b4ce5516608
+      internalID: 3935683814823658714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_45
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1007
+        width: 244
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ff6da4b75ed24f8e40a3f75f639d6
+      internalID: -8371678532840099166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_46
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 995
+        width: 365
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada7bc75c0d81142a558303685d2865
+      internalID: -7759355774990208402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_47
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1045
+        width: 287
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6bf8c6bb374545bf69b9515f9060b
+      internalID: -6035353172663748316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_48
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1068
+        width: 142
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20774ecb3e80e4494cd7c6b5ddee09
+      internalID: 25204003495054713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_49
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1048
+        width: 217
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bfca5a01e71b242b8789ec1b0eb25d
+      internalID: -3081832844975072627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_50
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1027
+        width: 319
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6233b1e309a741b28500679a81c39
+      internalID: -4043601855698954797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_51
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1007
+        width: 281
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e692be58dc444589b5e5c33ed8019
+      internalID: 9014565550556711645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_52
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 963
+        width: 326
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fee231e3596c45b43cc1f3d1810a9
+      internalID: -4347141285005398267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_53
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 1018
+        width: 188
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e4497f4995454ba1f3cfc33d54d02
+      internalID: -2026034294149768626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_54
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 990
+        width: 267
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8fa475ae2cad4594cae811cec4356
+      internalID: -6377219575784477370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_55
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 1019
+        width: 183
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6fb24044fe7742bed9c70e9b9c7f0
+      internalID: 7227394168335838436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 330
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b7cf69706b0642ab56a65b5146706
+      internalID: 3320029841778503643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 36
+        width: 402
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b7145b3955d14dab394ccd3e2491a
+      internalID: -7878606182294830189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_58
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 0
+        width: 362
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759048d74e703674ebeeea0975332e91
+      internalID: 8181882975598397077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_59
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 141
+        width: 290
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28493717971d7254cb3893de6d15cdce
+      internalID: 910954898958093865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_60
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 77
+        width: 419
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867199c517e1f6646943d9633ead94e1
+      internalID: 5818195397017927018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_61
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 149
+        width: 394
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd050a6ec8f574095ec9b56135f584
+      internalID: -2176923033916346731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_62
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 158
+        width: 342
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a051a0d8056f3744bc27e3a8ad2dd94
+      internalID: 3749134831156086583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_63
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 146
+        width: 225
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48507a90bf9144fa416120317f1517
+      internalID: 1079179647368695075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_64
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 152
+        width: 217
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2930573fa05544f95ad4e636ed8170
+      internalID: -3506764078493224363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_65
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 181
+        width: 200
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c3715b574522247aacea14a9458825
+      internalID: 6285158659010468697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_66
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 180
+        width: 341
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3ec8c513acb745a139072d6d9f03e
+      internalID: -6752278306125709640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket-_-Spaceships-Silhouettes_67
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 0
+        width: 255
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b554d09d88af418f8184bcd9f7aa7
+      internalID: 8455672186481879122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
