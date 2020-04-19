@@ -87,13 +87,21 @@ public class GameManager : MonoBehaviour
 
     public void PlayerDontWantToContinue()
     {
-        AdvertisementManager.instance.ShowInterestitial(false);
-        //NewGame();
+        //AdvertisementManager.instance.ShowInterestitial(false);
+        NewGame();
     }
 
     public void NewGame()
     {
+        SaveCoins();
         SceneManager.LoadScene(0, LoadSceneMode.Single);
+    }
+
+    public void SaveCoins()
+    {
+        int score = ScoreManager.instance.currScore;
+
+        CoinsManager.instance.saveCoins(CoinTransactions.add, score);
     }
 
 

@@ -42,12 +42,12 @@ public class AdMOBManager : MonoBehaviour
     {
         if (!AdvertisementManager.instance.useAds) return;
         MobileAds.Initialize(Admob_APP_ID);
-        
+        RequestBanner();
     }
 
     private void OnEnable()
     {
-        RequestBanner();
+        
     }
 
     private void OnDisable()
@@ -64,28 +64,51 @@ public class AdMOBManager : MonoBehaviour
     #region Banner
     void RequestBanner()
     {
+        Boolean testmode = AdvertisementManager.instance.TestMode;
+        if (testmode){
+            //Id Nahue 0BEB4F2A5DF02E32340C6FB6B72DBAA1
+            //Id Fede DACE943851F93FC242A335870EA607D2 - Z2 Play
+            //Id Lauta 3E42573D7C76C2498D8DE51A7EBFC053
+            //Id Fer
 
-//        //AdMob Banner Init
-//#if UNITY_ANDROID
-//        string adUnitId = "ca-app-pub-3940256099942544/6300978111";
-//#elif UNITY_IPHONE             
-//        string adUnitId = "ca-app-pub-3940256099942544/2934735716";
-//#else             
-//        string adUnitId = "unexpected_platform";
-//#endif
+            bannerAD = new BannerView("ca-app-pub-3940256099942544/6300978111", AdSize.SmartBanner, AdPosition.Bottom);
+            AdRequest adRequest = new AdRequest.Builder()
+                .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+                .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+                .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+                .Build();
 
-        //string banner_ID = "ca-app-pub-3940256099942544/6300978111"; //testing purposes
-        bannerAD = new BannerView(BannerAdID, AdSize.SmartBanner, AdPosition.Bottom);
 
-        //AdRequest adRequest = new AdRequest.Builder().AddTestDevice("2077ef9a63d2b398840261c8221a0c9b").Build();
+            bannerAD.LoadAd(adRequest);
 
-        //For Real APP ADMOB
-        AdRequest adRequest = new AdRequest.Builder().Build();
+        }
+        else
+        {
+
+
+            //        //AdMob Banner Init
+            //#if UNITY_ANDROID
+            //        string adUnitId = "ca-app-pub-3940256099942544/6300978111";
+            //#elif UNITY_IPHONE             
+            //        string adUnitId = "ca-app-pub-3940256099942544/2934735716";
+            //#else             
+            //        string adUnitId = "unexpected_platform";
+            //#endif
+
+            //string banner_ID = "ca-app-pub-3940256099942544/6300978111"; //testing purposes
+
+            bannerAD = new BannerView(BannerAdID, AdSize.SmartBanner, AdPosition.Bottom);
+            //For Real APP ADMOB
+            AdRequest adRequest = new AdRequest.Builder()
+                .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+                .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+                .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+                .Build();
 
         //COMMENTED FOR IRONSRC
 
         bannerAD.LoadAd(adRequest);
-
+        }
     }
 
     public void Display_BannerAdMob()
@@ -170,22 +193,44 @@ public class AdMOBManager : MonoBehaviour
     #region Interstitial
     void RequestInterstitial()
     {
+      Boolean testmode = AdvertisementManager.instance.TestMode;
+        if (testmode)
+        { //string interstitial_ID = "ca-app-pub-3940256099942544/1033173712"; //testing purposes
+            interstialAd = new InterstitialAd("ca-app-pub-3940256099942544/1033173712");
+            HandleInterstitialADEventsAdMob(true);
+            AdRequest adRequest = new AdRequest.Builder()
+                .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+                .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+                .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+                .Build();
+            //Id Nahue 0BEB4F2A5DF02E32340C6FB6B72DBAA1
+            //Id Fede DACE943851F93FC242A335870EA607D2 - Z2 Play
+            //Id Lauta 3E42573D7C76C2498D8DE51A7EBFC053
+            //Id Fer
 
-        //string interstitial_ID = "ca-app-pub-3940256099942544/1033173712"; //testing purposes
+            interstialAd.LoadAd(adRequest);
+        }
+        else
+        {        
+       
+
         interstialAd = new InterstitialAd(IntestitialAdID);
 
         HandleInterstitialADEventsAdMob(true);
 
-        //Testing Purposes
-        //AdRequest adRequest = new AdRequest.Builder().AddTestDevice("2077ef9a63d2b398840261c8221a0c9b").Build();
 
         //For Real APP
-        AdRequest adRequest = new AdRequest.Builder().Build();
+        AdRequest adRequest = new AdRequest.Builder()
+          .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+          .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+          .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+          .Build();
 
       
 
 
         interstialAd.LoadAd(adRequest);
+        }
     }
 
     private float maxWaitForInterestitial = 10f;
@@ -315,19 +360,39 @@ public class AdMOBManager : MonoBehaviour
 
     public void RequestVideoAd()
     {
-        //string video_ID = "ca-app-pub-3940256099942544/5224354917"; //testing purposes
         rewardAd = RewardBasedVideoAd.Instance;
+        Boolean testmode = AdvertisementManager.instance.TestMode;
+        if (testmode)
+        {
+            HandleVideoADEventsAdMob(true);
 
-        HandleVideoADEventsAdMob(true);
+            //Id Nahue 0BEB4F2A5DF02E32340C6FB6B72DBAA1
+            //Id Fede DACE943851F93FC242A335870EA607D2 - Z2 Play
+            //Id Lauta 3E42573D7C76C2498D8DE51A7EBFC053
+            //Id Fer
+            AdRequest adRequest = new AdRequest.Builder()
+                .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+                .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+                .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+                .Build();
 
-        //AdRequest adRequest = new AdRequest.Builder().AddTestDevice("2077ef9a63d2b398840261c8221a0c9b").Build();
-        //Testing Purposes
-
-        //For Real APP
-        AdRequest adRequest = new AdRequest.Builder().Build();
+            rewardAd.LoadAd(adRequest, "ca-app-pub-3940256099942544/5224354917");            //Testing Purposes
+        }
+        else
+        {            
+            HandleVideoADEventsAdMob(true);
+ 
+            //For Real APP
+            AdRequest adRequest = new AdRequest.Builder()
+              .AddTestDevice("DACE943851F93FC242A335870EA607D2")
+              .AddTestDevice("0BEB4F2A5DF02E32340C6FB6B72DBAA1")
+              .AddTestDevice("3E42573D7C76C2498D8DE51A7EBFC053")
+              .Build();
    
 
-        rewardAd.LoadAd(adRequest, RewardedAdID);
+            rewardAd.LoadAd(adRequest, RewardedAdID);
+        }
+
     }
 
     public void Display_Video()

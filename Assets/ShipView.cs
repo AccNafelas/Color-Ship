@@ -67,6 +67,8 @@ public class ShipView : MonoBehaviour
 
         valueTxt.gameObject.SetActive(false);
         coinImg.gameObject.SetActive(false);
+
+        CoinsManager.instance.hideCoins();
     }
 
     public void HideCovert()
@@ -75,6 +77,9 @@ public class ShipView : MonoBehaviour
 
         valueTxt.gameObject.SetActive(true);
         coinImg.gameObject.SetActive(true);
+
+        CoinsManager.instance.showCoins();
+
     }
 
 
