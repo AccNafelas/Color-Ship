@@ -6,7 +6,8 @@ using Unity.RemoteConfig;
 public class AdvertisementManager : MonoBehaviour
 {
     public bool useAds = false;
-
+    [Tooltip("El booleano TestMode Indica si los anuncios que se van a mostrar son de Test (True:SI)")]
+    public bool TestMode = false;
     [Space]
     public int totalRndNum = 10;
     [SerializeField] private int currNum;
