@@ -41,7 +41,9 @@ public class AdMOBManager : MonoBehaviour
     void Start()
     {
         if (!AdvertisementManager.instance.useAds) return;
+    
         MobileAds.Initialize(Admob_APP_ID);
+       
         RequestBanner();
     }
 
@@ -360,10 +362,11 @@ public class AdMOBManager : MonoBehaviour
 
     public void RequestVideoAd()
     {
-        rewardAd = RewardBasedVideoAd.Instance;
+        
         Boolean testmode = AdvertisementManager.instance.TestMode;
         if (testmode)
         {
+            rewardAd = RewardBasedVideoAd.Instance;
             HandleVideoADEventsAdMob(true);
 
             //Id Nahue 0BEB4F2A5DF02E32340C6FB6B72DBAA1
@@ -379,7 +382,8 @@ public class AdMOBManager : MonoBehaviour
             rewardAd.LoadAd(adRequest, "ca-app-pub-3940256099942544/5224354917");            //Testing Purposes
         }
         else
-        {            
+        {
+            rewardAd = RewardBasedVideoAd.Instance;
             HandleVideoADEventsAdMob(true);
  
             //For Real APP
