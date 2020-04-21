@@ -87,13 +87,20 @@ public class GameManager : MonoBehaviour
 
     public void PlayerDontWantToContinue()
     {
-        //AdvertisementManager.instance.ShowInterestitial(false);
-        NewGame();
+        if (AdvertisementManager.instance.useAds)
+        {
+            AdvertisementManager.instance.ShowInterestitial(false);
+        }
+        else {
+            NewGame();
+        }
+        
     }
 
     public void NewGame()
     {
         SaveCoins();
+       
         SceneManager.LoadScene(0, LoadSceneMode.Single);
     }
 
