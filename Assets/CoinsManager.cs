@@ -6,7 +6,7 @@ public class CoinsManager : MonoBehaviour
 {
     public GameObject myCoinsUI;
     public Text currentCoins;
-    private int globalCoins;
+    public int globalCoins;
     public float moneyRatio = 5;
 
 public static CoinsManager instance;
@@ -76,6 +76,7 @@ public static CoinsManager instance;
                 break;
         }
 
+        getCurrentCoins();
         PlayerPrefs.SetInt("myCoins", globalCoins);
         PlayerPrefs.Save();
 
