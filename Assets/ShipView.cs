@@ -18,6 +18,8 @@ public class ShipView : MonoBehaviour
     public Image fullMarcImg;
     public Image priceMarcImg;
 
+    [HideInInspector]
+    public ShipListManager listManager;
 
 
     void Start()
@@ -30,14 +32,44 @@ public class ShipView : MonoBehaviour
 
     }
 
-    public void SetUp(ShipViewBluePrint newBP)
+    public void IsOwned()
     {
+        string nombre = "Ship-" + BP.shipIndex;
+        if (PlayerPrefs.HasKey(nombre))
+        {
+            if (PlayerPrefs.GetInt(nombre) == 1)
+            {
+                BP.owned = true;
+
+                //return true;
+            }
+            else
+            {
+                BP.owned = false;
+                //return false;
+            }
+        }
+        else
+        {
+            BP.owned = false;
+            //return false;
+        }
+
+    }
+
+    public void SetUp(ShipViewBluePrint newBP,ShipListManager manager)
+    {
+        this.listManager = manager;
+
         this.BP = newBP;
         if (BP == null)
         {
             print("No tengo BluePrint");
             return;
         }
+
+        BP.shipIndex = index;
+        IsOwned();
 
         shipImg.sprite = BP.shipImg;
 
@@ -68,7 +100,7 @@ public class ShipView : MonoBehaviour
         valueTxt.gameObject.SetActive(false);
         coinImg.gameObject.SetActive(false);
 
-        CoinsManager.instance.hideCoins();
+       // CoinsManager.instance.hideCoins();
     }
 
     public void HideCovert()
@@ -78,13 +110,27 @@ public class ShipView : MonoBehaviour
         valueTxt.gameObject.SetActive(true);
         coinImg.gameObject.SetActive(true);
 
-        CoinsManager.instance.showCoins();
+        //CoinsManager.instance.showCoins();
 
+    }
+
+       public void HandleButtonDown(){
+        if (!selected){
+            OnSelect();
+        }else{
+            if (BP.owned){
+                return;
+            }else{
+                OnBuy();
+            }
+            //Comprar, validar jeje
+        }
     }
 
 
     public void OnSelect()
     {
+        listManager.ChangeSelectedShip(this);
         selected = true;
 
         ShowCovert();
@@ -96,5 +142,27 @@ public class ShipView : MonoBehaviour
 
         HideCovert();
     }
+    //[ContextMenu("Purchase")]
+    public void Purchase()
+    {
+        string nombre = "Ship-" + BP.shipIndex;
+        
+        PlayerPrefs.SetInt(nombre, 1);
+        PlayerPrefs.Save();
+        
+        BP.owned = true;
+        SetUp(BP,this.listManager);
+
+    }
+
+     public void OnBuy(){
+
+         listManager.ValidateBuy(BP.shipValue);
+        
+    }
+
+ 
+
+   
 
 }

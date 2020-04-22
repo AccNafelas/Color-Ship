@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e6ea881b7be20747b88eecab3876e4e, type: 3}
   m_Name: 2
   m_EditorClassIdentifier: 
-  owned: 0
+  shipIndex: 1
+  owned: 1
   shipPrefab: {fileID: 0}
   shipImg: {fileID: -307620437417458321, guid: e60c04597e8e8c44494d0fff62f30fe5, type: 3}
   shipValue: 100
