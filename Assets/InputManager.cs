@@ -71,7 +71,7 @@ public class InputManager : MonoBehaviour
         else
         { screenPos = Camera.main.ScreenToViewportPoint(Input.mousePosition); }
 
-        print(screenPos);
+        //print(screenPos);
 
         if (screenPos.y > panelHieght)
         {

@@ -8,7 +8,7 @@ public class ShipViewBluePrint : ScriptableObject
     [HideInInspector]
     public int shipIndex;
     public bool owned = false;
-    public GameObject shipPrefab;
+    public Vector2 spriteSize= new Vector2(0.3f,0.3f);
     public Sprite shipImg;
     public int shipValue = 100;
 

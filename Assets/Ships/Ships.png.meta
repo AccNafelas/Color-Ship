@@ -1,0 +1,1894 @@
+fileFormatVersion: 2
+guid: c8c85bb4da6230b4dbcb64fbc12c75ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6825604437529057342
+    second: Rocket-&-Spaceships-Silhouettes_0
+  - first:
+      213: -7915777190675964855
+    second: Rocket-&-Spaceships-Silhouettes_1
+  - first:
+      213: 2508013114237507240
+    second: Rocket-&-Spaceships-Silhouettes_2
+  - first:
+      213: 3390436993722603979
+    second: Rocket-&-Spaceships-Silhouettes_3
+  - first:
+      213: 2064511405015241658
+    second: Rocket-&-Spaceships-Silhouettes_4
+  - first:
+      213: -8494302647614741027
+    second: Rocket-&-Spaceships-Silhouettes_5
+  - first:
+      213: -8541001413286269158
+    second: Rocket-&-Spaceships-Silhouettes_6
+  - first:
+      213: -5706126173886505556
+    second: Rocket-&-Spaceships-Silhouettes_7
+  - first:
+      213: 2372689817242382524
+    second: Rocket-&-Spaceships-Silhouettes_8
+  - first:
+      213: -2680535162751636173
+    second: Rocket-&-Spaceships-Silhouettes_9
+  - first:
+      213: 7667668335033922307
+    second: Rocket-&-Spaceships-Silhouettes_10
+  - first:
+      213: -3502233530183722037
+    second: Rocket-&-Spaceships-Silhouettes_11
+  - first:
+      213: -8541661280710021850
+    second: Rocket-&-Spaceships-Silhouettes_12
+  - first:
+      213: -4973579354305811831
+    second: Rocket-&-Spaceships-Silhouettes_13
+  - first:
+      213: 1200192652532131330
+    second: Rocket-&-Spaceships-Silhouettes_14
+  - first:
+      213: -520871268052283247
+    second: Rocket-&-Spaceships-Silhouettes_15
+  - first:
+      213: 2088361960551664071
+    second: Rocket-&-Spaceships-Silhouettes_16
+  - first:
+      213: 6427172413190909304
+    second: Rocket-&-Spaceships-Silhouettes_17
+  - first:
+      213: 3029802380224692499
+    second: Rocket-&-Spaceships-Silhouettes_18
+  - first:
+      213: -2341958199810486886
+    second: Rocket-&-Spaceships-Silhouettes_19
+  - first:
+      213: 4997562234883380061
+    second: Rocket-&-Spaceships-Silhouettes_20
+  - first:
+      213: 8567448621346547652
+    second: Rocket-&-Spaceships-Silhouettes_21
+  - first:
+      213: -6064863271154514800
+    second: Rocket-&-Spaceships-Silhouettes_22
+  - first:
+      213: 856620754894470514
+    second: Rocket-&-Spaceships-Silhouettes_23
+  - first:
+      213: -8010496797675407643
+    second: Rocket-&-Spaceships-Silhouettes_24
+  - first:
+      213: 4691671136947333486
+    second: Rocket-&-Spaceships-Silhouettes_25
+  - first:
+      213: 3987504406252824863
+    second: Rocket-&-Spaceships-Silhouettes_26
+  - first:
+      213: 4839593277132997110
+    second: Rocket-&-Spaceships-Silhouettes_27
+  - first:
+      213: 9021158421888490719
+    second: Rocket-&-Spaceships-Silhouettes_28
+  - first:
+      213: 2846944120082984490
+    second: Rocket-&-Spaceships-Silhouettes_29
+  - first:
+      213: -5573085862420967444
+    second: Rocket-&-Spaceships-Silhouettes_30
+  - first:
+      213: -388756709306979357
+    second: Rocket-&-Spaceships-Silhouettes_31
+  - first:
+      213: 6190664808078098980
+    second: Rocket-&-Spaceships-Silhouettes_32
+  - first:
+      213: 4431866502677803076
+    second: Rocket-&-Spaceships-Silhouettes_33
+  - first:
+      213: 5559589160013105472
+    second: Rocket-&-Spaceships-Silhouettes_34
+  - first:
+      213: 768209895327153710
+    second: Rocket-&-Spaceships-Silhouettes_35
+  - first:
+      213: 8601363257191762695
+    second: Rocket-&-Spaceships-Silhouettes_36
+  - first:
+      213: -5668564918659765089
+    second: Rocket-&-Spaceships-Silhouettes_37
+  - first:
+      213: 3244744352015272413
+    second: Rocket-&-Spaceships-Silhouettes_38
+  - first:
+      213: -608517638619738718
+    second: Rocket-&-Spaceships-Silhouettes_39
+  - first:
+      213: 4357455532714588456
+    second: Rocket-&-Spaceships-Silhouettes_40
+  - first:
+      213: -4138119315461332731
+    second: Rocket-&-Spaceships-Silhouettes_41
+  - first:
+      213: -1412501210187219118
+    second: Rocket-&-Spaceships-Silhouettes_42
+  - first:
+      213: 5914336403661741757
+    second: Rocket-&-Spaceships-Silhouettes_43
+  - first:
+      213: 5881321764643345243
+    second: Rocket-&-Spaceships-Silhouettes_44
+  - first:
+      213: -1263425438304864413
+    second: Rocket-&-Spaceships-Silhouettes_45
+  - first:
+      213: 7087234622019216545
+    second: Rocket-&-Spaceships-Silhouettes_46
+  - first:
+      213: -5093406420638736098
+    second: Rocket-&-Spaceships-Silhouettes_47
+  - first:
+      213: 514099628537721492
+    second: Rocket-&-Spaceships-Silhouettes_48
+  - first:
+      213: 3893137277228488704
+    second: Rocket-&-Spaceships-Silhouettes_49
+  - first:
+      213: 7849078395602155481
+    second: Rocket-&-Spaceships-Silhouettes_50
+  - first:
+      213: 3802892111736851239
+    second: Rocket-&-Spaceships-Silhouettes_51
+  - first:
+      213: -9004549429808781499
+    second: Rocket-&-Spaceships-Silhouettes_52
+  - first:
+      213: -7476812163015531733
+    second: Rocket-&-Spaceships-Silhouettes_53
+  - first:
+      213: 5524721278205491857
+    second: Rocket-&-Spaceships-Silhouettes_54
+  - first:
+      213: 3186594372260386082
+    second: Rocket-&-Spaceships-Silhouettes_55
+  - first:
+      213: -4605070267939230247
+    second: Rocket-&-Spaceships-Silhouettes_56
+  - first:
+      213: 9160663767871636506
+    second: Rocket-&-Spaceships-Silhouettes_57
+  - first:
+      213: -5956121800674461933
+    second: Rocket-&-Spaceships-Silhouettes_58
+  - first:
+      213: 4159428384454228250
+    second: Rocket-&-Spaceships-Silhouettes_59
+  - first:
+      213: -5932620378040299671
+    second: Rocket-&-Spaceships-Silhouettes_60
+  - first:
+      213: -1299835319618025478
+    second: Rocket-&-Spaceships-Silhouettes_61
+  - first:
+      213: -4812281452077159242
+    second: Rocket-&-Spaceships-Silhouettes_62
+  - first:
+      213: 5783096300130899027
+    second: Rocket-&-Spaceships-Silhouettes_63
+  - first:
+      213: 7317860725135548083
+    second: Rocket-&-Spaceships-Silhouettes_64
+  - first:
+      213: -4925448337817528618
+    second: Ships_0
+  - first:
+      213: -3955315786042260600
+    second: Ships_1
+  - first:
+      213: -3694011042877506897
+    second: Ships_2
+  - first:
+      213: 499465489112947978
+    second: Ships_3
+  - first:
+      213: 6297714342272184862
+    second: Ships_4
+  - first:
+      213: 8829943371061541346
+    second: Ships_5
+  - first:
+      213: 1022233529555787676
+    second: Ships_6
+  - first:
+      213: 1582096262700788101
+    second: Ships_7
+  - first:
+      213: -364411600643877447
+    second: Ships_8
+  - first:
+      213: -2042357130742720995
+    second: Ships_9
+  - first:
+      213: 8391758544891252999
+    second: Ships_10
+  - first:
+      213: -195884183769270546
+    second: Ships_11
+  - first:
+      213: 5494400214622144353
+    second: Ships_12
+  - first:
+      213: -4092489191976149785
+    second: Ships_13
+  - first:
+      213: 8405065620779318965
+    second: Ships_14
+  - first:
+      213: -6960008114802772240
+    second: Ships_15
+  - first:
+      213: 8973860487683246668
+    second: Ships_16
+  - first:
+      213: -839618622298367221
+    second: Ships_17
+  - first:
+      213: 7399214519220680081
+    second: Ships_18
+  - first:
+      213: -2557188849759785110
+    second: Ships_19
+  - first:
+      213: 5054299475547793296
+    second: Ships_20
+  - first:
+      213: 2649846651254477840
+    second: Ships_21
+  - first:
+      213: 7557756240860894959
+    second: Ships_22
+  - first:
+      213: 5235517661275787934
+    second: Ships_23
+  - first:
+      213: -4853163870663406360
+    second: Ships_24
+  - first:
+      213: -7545259094056189819
+    second: Ships_25
+  - first:
+      213: 5799208763563572536
+    second: Ships_26
+  - first:
+      213: 3939273377708461701
+    second: Ships_27
+  - first:
+      213: 9132130097810180387
+    second: Ships_28
+  - first:
+      213: 776785070937232959
+    second: Ships_29
+  - first:
+      213: 4377665945845627567
+    second: Ships_30
+  - first:
+      213: 8777306932142357062
+    second: Ships_31
+  - first:
+      213: 5720628088446610234
+    second: Ships_32
+  - first:
+      213: 603215239639066243
+    second: Ships_33
+  - first:
+      213: -4428653715033411336
+    second: Ships_34
+  - first:
+      213: -4183299388061558431
+    second: Ships_35
+  - first:
+      213: 6134538140727618355
+    second: Ships_36
+  - first:
+      213: 404056280353546159
+    second: Ships_37
+  - first:
+      213: -7066936491343113446
+    second: Ships_38
+  - first:
+      213: -1551939228867018780
+    second: Ships_39
+  - first:
+      213: -5771324035387529770
+    second: Ships_40
+  - first:
+      213: -2051776534463372584
+    second: Ships_41
+  - first:
+      213: 7547430804000809802
+    second: Ships_42
+  - first:
+      213: -5772465307585432885
+    second: Ships_43
+  - first:
+      213: -2859713140787187906
+    second: Ships_44
+  - first:
+      213: -7021707987110741010
+    second: Ships_45
+  - first:
+      213: -6043300311531668443
+    second: Ships_46
+  - first:
+      213: -2242944610055422544
+    second: Ships_47
+  - first:
+      213: -3794489426656180384
+    second: Ships_48
+  - first:
+      213: -6561162547150595805
+    second: Ships_49
+  - first:
+      213: -8585420779533724194
+    second: Ships_50
+  - first:
+      213: 2575889840862170590
+    second: Ships_51
+  - first:
+      213: 3834697815029352490
+    second: Ships_52
+  - first:
+      213: -2086097141453357167
+    second: Ships_53
+  - first:
+      213: -3470534852171965165
+    second: Ships_54
+  - first:
+      213: 4669065999491730226
+    second: Ships_55
+  - first:
+      213: -2577385388325647201
+    second: Ships_56
+  - first:
+      213: -9030339624424563082
+    second: Ships_57
+  - first:
+      213: 1465728873606580343
+    second: Ships_58
+  - first:
+      213: 8338993622889969704
+    second: Ships_59
+  - first:
+      213: 7172929654457510183
+    second: Ships_60
+  - first:
+      213: 8784294394674663526
+    second: Ships_61
+  - first:
+      213: -8540604667875763719
+    second: Ships_62
+  - first:
+      213: 2811677238255702970
+    second: Ships_63
+  - first:
+      213: -8619714281712055920
+    second: Ships_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ships_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3388
+        width: 204
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7456bb85a229dc4eb02eac40bf50a9a
+      internalID: -4925448337817528618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3406
+        width: 286
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f561e123d4104e962acb22a214492
+      internalID: -3955315786042260600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_2
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3379
+        width: 291
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11fea5ff07ecbd4d90b0532fb11649d
+      internalID: -3694011042877506897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_3
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 3412
+        width: 294
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2243d6164e47b48bd72c6bef4b5a3c
+      internalID: 499465489112947978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_4
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 3391
+        width: 279
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3c5960764907439eed5ef1fa2bcdf
+      internalID: 6297714342272184862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_5
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 3415
+        width: 165
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4f89715c792dc4b8a074741fe5cb9f
+      internalID: 8829943371061541346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_6
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 3396
+        width: 152
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6ef3d9374a83c45afe9ac085ce6bae
+      internalID: 1022233529555787676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_7
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 3397
+        width: 241
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd44dde6e84fdf448db7ddd19634dcf
+      internalID: 1582096262700788101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_8
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 3415
+        width: 250
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a33b8998ed606488e06e54f6fb560a
+      internalID: -364411600643877447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_9
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 3406
+        width: 174
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e346a6c388e1024098ce5e1ac4de66f
+      internalID: -2042357130742720995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_10
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 3409
+        width: 233
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2f8646890e1443b93772e8b9fdab4
+      internalID: 8391758544891252999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_11
+      rect:
+        serializedVersion: 2
+        x: 5778
+        y: 3352
+        width: 165
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f20525f8cf79b04cb97ff3965cac539
+      internalID: -195884183769270546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2742
+        width: 267
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956a87bc1486eb40b0b66075ce08268
+      internalID: 5494400214622144353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2694
+        width: 238
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df610a2c040302419c33790b051bae6
+      internalID: -4092489191976149785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_14
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2739
+        width: 165
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc1408900184745898244a9e368c62
+      internalID: 8405065620779318965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2718
+        width: 258
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50d23eba4044b4a9ab26779b23028d
+      internalID: -6960008114802772240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_16
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2733
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450bf61ac231564418382e25d3b8f224
+      internalID: 8973860487683246668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_17
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2751
+        width: 129
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256eefca346394439178bfb5350f9cb
+      internalID: -839618622298367221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_18
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2733
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ff399552db804885b196a736aa64f
+      internalID: 7399214519220680081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_19
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2712
+        width: 201
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e72ce5b8adb44eaade8857974728e
+      internalID: -2557188849759785110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_20
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2724
+        width: 226
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6348785ec04bc46835fd683689346b
+      internalID: 5054299475547793296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_21
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 2685
+        width: 298
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd31fdcf2257443a2b0ecb22c4ff41
+      internalID: 2649846651254477840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_22
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2688
+        width: 303
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f02bfc81f8f4647a4b9e835b8097a4
+      internalID: 7557756240860894959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_23
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 2703
+        width: 267
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ae743dfed1044ba71a4ee7444cc0b
+      internalID: 5235517661275787934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_24
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 2694
+        width: 264
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a7e09aee33254786513a8fa85cc47
+      internalID: -4853163870663406360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_25
+      rect:
+        serializedVersion: 2
+        x: 5159
+        y: 2700
+        width: 240
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621c90eba83133469f0f2cb1757f522
+      internalID: -7545259094056189819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_26
+      rect:
+        serializedVersion: 2
+        x: 5619
+        y: 2611
+        width: 306
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571611ca0c686342a67c4d019376afd
+      internalID: 5799208763563572536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1819
+        width: 312
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063e47b3957304449742a05b172f234
+      internalID: 3939273377708461701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1849
+        width: 367
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e55243fea1fbc4cbcc00a3780ce8df
+      internalID: 9132130097810180387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_29
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1907
+        width: 222
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9809273a92967046b2d2ebe24c8f7ef
+      internalID: 776785070937232959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_30
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1925
+        width: 341
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e878ae1428bb64695545ac87b8e7c0
+      internalID: 4377665945845627567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_31
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1907
+        width: 324
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881448246a5fba4ea19696fbe8cc38e
+      internalID: 8777306932142357062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_32
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1913
+        width: 324
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0180d652c192ab47b9b3471fdf708d1
+      internalID: 5720628088446610234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_33
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 1922
+        width: 270
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd903814c55c174dbb240322b2ed733
+      internalID: 603215239639066243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_34
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1970
+        width: 271
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed112ff970e72b4ba23cff30fb7542b
+      internalID: -4428653715033411336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_35
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1873
+        width: 484
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596af4e31b81004f8c8409e6a850580
+      internalID: -4183299388061558431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_36
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 1819
+        width: 292
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13afeee9cf38f094a85d11770a21978a
+      internalID: 6134538140727618355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_37
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 1907
+        width: 403
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc0bf94f86c9f47b4f62a8393ef0b0
+      internalID: 404056280353546159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_38
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 1904
+        width: 231
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882819c041f42f42936f5432e766031
+      internalID: -7066936491343113446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_39
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 1795
+        width: 216
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a824128f296f994bbb162ce7a4e9205
+      internalID: -1551939228867018780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 924
+        width: 282
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c40ca1cdee5a446b08df57fc3808a4
+      internalID: -5771324035387529770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 963
+        width: 229
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef8ea94b09c0a49b8246631c6d15e5
+      internalID: -2051776534463372584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_42
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1002
+        width: 247
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1a70ffe8f61b4a87426c2ed819623
+      internalID: 7547430804000809802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_43
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 990
+        width: 376
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bce3a7c6bbfd942ad681064d91cb7e
+      internalID: -5772465307585432885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_44
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1040
+        width: 295
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497af8eb171b8a47a6ba59649c0b80a
+      internalID: -2859713140787187906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_45
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1063
+        width: 146
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e611d4642f3414a8d3a51efd5eba50
+      internalID: -7021707987110741010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_46
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1051
+        width: 225
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddfab643b670545adcc13068ae89c5
+      internalID: -6043300311531668443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_47
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1023
+        width: 328
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f77679ba0f2be4b8109759ee314a93
+      internalID: -2242944610055422544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_48
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 1005
+        width: 289
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa06d3b45093ec4582b475b0d5cdbed
+      internalID: -3794489426656180384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_49
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 960
+        width: 334
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e9a217c79928245af6664ed4eb10fc
+      internalID: -6561162547150595805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_50
+      rect:
+        serializedVersion: 2
+        x: 4849
+        y: 1014
+        width: 195
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c38e766a1ab154db3c33f92f2d375c
+      internalID: -8585420779533724194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_51
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 987
+        width: 273
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864178fae41dee643a4efc4c5548d455
+      internalID: 2575889840862170590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_52
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1014
+        width: 192
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573d4680dab24a48ab89e213028182f
+      internalID: 3834697815029352490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 336
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88f9c5d451905499cba068335d02e5
+      internalID: -2086097141453357167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 35
+        width: 411
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f13c7793825946b926ec62c2c37be
+      internalID: -3470534852171965165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_55
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 372
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0064ff58c24d41b7737af3c950207
+      internalID: 4669065999491730226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_56
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 137
+        width: 300
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac599895e08575f43b2a68ad2f3d7508
+      internalID: -2577385388325647201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_57
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 74
+        width: 426
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa4bbeebf88554391fb8dc5c924cd5
+      internalID: -9030339624424563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_58
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 146
+        width: 403
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3fc8a98d5dcd4e83f0e0b4068ea0b
+      internalID: 1465728873606580343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_59
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 161
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c09b6221690e42a05c33739d6fb03
+      internalID: 8338993622889969704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_60
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 146
+        width: 231
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c84b71355c5e4f91bd3f35f8ae694
+      internalID: 7172929654457510183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_61
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 149
+        width: 228
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f537045d71ab341a33ba0460ddaa20
+      internalID: 8784294394674663526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_62
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 176
+        width: 210
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e156b881bd447e499a7a82cb14df859
+      internalID: -8540604667875763719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_63
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 192
+        width: 348
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d623289494b3f429ffc7298afd7798
+      internalID: 2811677238255702970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ships_64
+      rect:
+        serializedVersion: 2
+        x: 5661
+        y: 0
+        width: 264
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9265af9787f74faed580b81a0ff4b
+      internalID: -8619714281712055920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

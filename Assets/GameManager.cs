@@ -108,7 +108,7 @@ public class GameManager : MonoBehaviour
     {
         int score = ScoreManager.instance.currScore;
 
-        CoinsManager.instance.saveCoins(CoinTransactions.add, score);
+        CoinsManager.instance.SaveCoins(CoinTransactions.add, score);
     }
 
 

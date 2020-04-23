@@ -17,6 +17,7 @@ public class ShipView : MonoBehaviour
     public Image coinImg;
     public Image fullMarcImg;
     public Image priceMarcImg;
+    public GameObject selectedFrame;
 
     [HideInInspector]
     public ShipListManager listManager;
@@ -114,16 +115,23 @@ public class ShipView : MonoBehaviour
 
     }
 
-       public void HandleButtonDown(){
-        if (!selected){
-            OnSelect();
-        }else{
-            if (BP.owned){
+    public void HandleButtonDown()
+    {
+        if (!selected)
+        {
+           OnSelect();
+        }
+        else
+        {
+            if (BP.owned)
+            {
                 return;
-            }else{
+            }
+            else
+            {
                 OnBuy();
             }
-            //Comprar, validar jeje
+        //Comprar, validar jeje
         }
     }
 
@@ -133,6 +141,8 @@ public class ShipView : MonoBehaviour
         listManager.ChangeSelectedShip(this);
         selected = true;
 
+
+        // si ay la tengo no muestres lña cobertura, sino la de seleccion
         ShowCovert();
     }
 

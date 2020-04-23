@@ -9,9 +9,9 @@ public class CoinsManager : MonoBehaviour
     public int globalCoins;
     public float moneyRatio = 5;
 
-public static CoinsManager instance;
+    public static CoinsManager instance;
 
-   private void Awake()
+    private void Awake()
     {
         AwakeSingleton();
 
@@ -27,38 +27,39 @@ public static CoinsManager instance;
     }
     private void OnEnable()
     {
-        getCurrentCoins();
+        GetCurrentCoins();
     }
 
-    public void getCurrentCoins(){
-      int myCoins = 0;
+    public void GetCurrentCoins()
+    {
+        int myCoins = 0;
         if (PlayerPrefs.HasKey("myCoins"))
         {
-          myCoins = PlayerPrefs.GetInt("myCoins");
-          
+            myCoins = PlayerPrefs.GetInt("myCoins");
+
         }
         else
-         {            
-          PlayerPrefs.SetInt("myCoins", 0);
-          PlayerPrefs.Save();
-         }
+        {
+            PlayerPrefs.SetInt("myCoins", 0);
+            PlayerPrefs.Save();
+        }
 
         globalCoins = myCoins;
-       currentCoins.text = globalCoins.ToString();
-         }
+        currentCoins.text = globalCoins.ToString();
+    }
 
 
 
-    public void showCoins(){
-    myCoinsUI.gameObject.SetActive(true);
+    public void showCoins() {
+        myCoinsUI.gameObject.SetActive(true);
 
     }
 
-    public void hideCoins(){
-    myCoinsUI.gameObject.SetActive(false);    
+    public void hideCoins() {
+        myCoinsUI.gameObject.SetActive(false);
     }
-    
-    public void saveCoins(CoinTransactions trans, int value)
+
+    public void SaveCoins(CoinTransactions trans, int value)
     {
         switch (trans)
         {
@@ -76,12 +77,23 @@ public static CoinsManager instance;
                 break;
         }
 
-        getCurrentCoins();
+        GetCurrentCoins();
         PlayerPrefs.SetInt("myCoins", globalCoins);
         PlayerPrefs.Save();
 
     }
-   
+
+
+    [ContextMenu("Add Money")]
+    public void AddMoney()
+    {
+        globalCoins += 1000;
+
+        PlayerPrefs.SetInt("myCoins", globalCoins);
+        PlayerPrefs.Save();
+
+        GetCurrentCoins();
+    }
 }
 
 public enum CoinTransactions

@@ -33,6 +33,11 @@ public class Plane : MonoBehaviour
     public float deadTime = 0.25f;
     public float timeToShowEndPanel = 0.5f;
 
+    [Header("Different Ship")]
+    public SpriteRenderer SR;
+    public Transform imgTransCont;
+    public ShipViewBluePrint currBP;
+
     [Header("Camera")]
     public CamFollow camFollow;
 
@@ -41,7 +46,6 @@ public class Plane : MonoBehaviour
 
     [Header("Color")]
     public ColorInfo currColor;
-    public SpriteRenderer SR;
     public int colorOrbsLayer;
 
     [Header("Obstacles")]
@@ -370,6 +374,16 @@ public class Plane : MonoBehaviour
 
 
     }
+
+
+
+    public void StablishNewShip(ShipViewBluePrint shipBP)
+    {
+        currBP = shipBP;
+        SR.sprite = currBP.shipImg;
+        imgTransCont.localScale = shipBP.spriteSize;
+    }
+
 
 
 }

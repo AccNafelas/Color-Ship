@@ -21,6 +21,11 @@ public class ShipListManager : MonoBehaviour
     public Text txtPrice;
     public Image shipImage;
 
+
+    [Space]
+    public Plane playerShip;
+    public ShipViewBluePrint original;
+
  public static ShipListManager instance;
     void AwakeSingleton()
     {
@@ -43,6 +48,9 @@ public class ShipListManager : MonoBehaviour
     private void OnEnable()
     {
         CreateShipViewList();
+
+        selectedShip = FindByBluePrint ( GetLastSelected() );
+        selectedShip.selected = true;
     }
 
     private void OnDisable()
@@ -69,12 +77,17 @@ public class ShipListManager : MonoBehaviour
 
     public void ChangeSelectedShip(ShipView newship){
         
-        if (selectedShip != null){
+        if (selectedShip != null)
+        {
             selectedShip.OnUnselect();
             selectedShip = null;
         }
 
         selectedShip = newship;
+
+        ChangePlayerShipSprite(selectedShip.BP);
+
+        SaveLastSelected();
     }
 
     public void ValidateBuy(int price){
@@ -85,17 +98,17 @@ public class ShipListManager : MonoBehaviour
             //CUANTA PLATA PIBE MUY BIEN
             //CoinsManager.instance.saveCoins(CoinTransactions.pay,price);
             //selectedShip.Purchase();
-            setPurchaseModalValues();
+            SetPurchaseModalValues();
 
       }
-        else{
+      else{
           //Hacer el truqito para que se mueva
           print("POBRE DE MIERDA");
       }
 
     }
 
-    public void setPurchaseModalValues()
+    public void SetPurchaseModalValues()
     {
         InputManager.instance.isModalBuyOpen = true;
         confirmBuyModal.SetActive(true);
@@ -105,7 +118,7 @@ public class ShipListManager : MonoBehaviour
 
     public void OnClickYesPurchase()
     {
-        CoinsManager.instance.saveCoins(CoinTransactions.pay, selectedShip.BP.shipValue);
+        CoinsManager.instance.SaveCoins(CoinTransactions.pay, selectedShip.BP.shipValue);
         selectedShip.Purchase();
         confirmBuyModal.SetActive(false);
         InputManager.instance.isModalBuyOpen = false;
@@ -116,6 +129,73 @@ public class ShipListManager : MonoBehaviour
         InputManager.instance.isModalBuyOpen = false;
         confirmBuyModal.SetActive(false);
 
+    }
+
+
+    public void CheckPlayerShip()
+    {
+        if (!playerShip.currBP.owned)
+        {
+            ChangePlayerShipSprite(original);
+        }
+    }
+
+    public void ChangePlayerShipSprite(ShipViewBluePrint BP)
+    {
+        playerShip.StablishNewShip(BP);
+    }
+
+
+
+    public void SaveLastSelected()
+    {
+        if (PlayerPrefs.HasKey("LastShipSelected"))
+        {
+            PlayerPrefs.SetString("LastShipSelected", selectedShip.BP.name);
+        }
+        else
+        {
+            PlayerPrefs.SetString("LastShipSelected", "Original");
+        }
+
+        PlayerPrefs.Save();
+    }
+
+    public ShipViewBluePrint GetLastSelected()
+    {
+        string name;
+
+        if (PlayerPrefs.HasKey("LastShipSelected"))
+        {
+           name = PlayerPrefs.GetString("LastShipSelected");
+        }
+        else
+        {
+            name = "Original";
+        }
+
+
+        foreach (var item in shipsViews)
+        {
+            if (item.BP.name == name)
+            {
+                return item.BP;
+            }
+        }
+
+        return original;
+    }
+
+    public ShipView FindByBluePrint(ShipViewBluePrint BP)
+    {
+        foreach (var item in shipsViews)
+        {
+            if (item.BP.name == BP.name)
+            {
+                return item;
+            }
+        }
+        return shipsViews[0];
     }
 
 }
