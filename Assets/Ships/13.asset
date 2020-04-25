@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0e6ea881b7be20747b88eecab3876e4e, type: 3}
-  m_Name: 2
+  m_Name: 13
   m_EditorClassIdentifier: 
-  shipIndex: 2
-  owned: 1
+  shipIndex: 10
+  owned: 0
   spriteSize: {x: 1.5, y: 1.5}
-  shipImg: {fileID: -3694011042877506897, guid: c8c85bb4da6230b4dbcb64fbc12c75ef,
+  shipImg: {fileID: -4092489191976149785, guid: c8c85bb4da6230b4dbcb64fbc12c75ef,
     type: 3}
-  shipValue: 100
+  shipValue: 150
   useFire: 0

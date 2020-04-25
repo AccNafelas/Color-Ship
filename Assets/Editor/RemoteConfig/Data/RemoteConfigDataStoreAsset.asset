@@ -25,7 +25,55 @@ MonoBehaviour:
       key: Testing
       type: bool
       value: True
-  rsLastCachedKeyList: []
+  - metadata:
+      entityId: 089f1d51-6d89-4d65-8bad-3dd21603b2f5
+    rs:
+      key: AdMob_Banner
+      type: int
+      value: 10
+  - metadata:
+      entityId: 5ac63495-9427-42b2-be15-f3e1479e0989
+    rs:
+      key: AdMob_Inter
+      type: int
+      value: 5
+  - metadata:
+      entityId: 6706f29d-9001-44a2-ac7f-7b82f3c2d1d1
+    rs:
+      key: AdMob_Rewarded
+      type: int
+      value: 5
+  rsLastCachedKeyList:
+  - metadata:
+      entityId: ec924d25-0ef8-4742-9934-63d4361c6010
+    rs:
+      key: Use Ads
+      type: bool
+      value: False
+  - metadata:
+      entityId: 0105a41c-4474-4bb2-b8b0-84d2dffc8886
+    rs:
+      key: Testing
+      type: bool
+      value: True
+  - metadata:
+      entityId: 089f1d51-6d89-4d65-8bad-3dd21603b2f5
+    rs:
+      key: AdMob_Banner
+      type: int
+      value: 10
+  - metadata:
+      entityId: 5ac63495-9427-42b2-be15-f3e1479e0989
+    rs:
+      key: AdMob_Inter
+      type: int
+      value: 5
+  - metadata:
+      entityId: 6706f29d-9001-44a2-ac7f-7b82f3c2d1d1
+    rs:
+      key: AdMob_Rewarded
+      type: int
+      value: 5
   configId: 6334f169-019b-45c2-8e10-51bfad4dc14a
   currentEnvironmentId: a017e231-c524-417c-9861-cf5780e968b6
   environments:

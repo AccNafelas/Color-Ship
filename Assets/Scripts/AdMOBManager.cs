@@ -510,7 +510,7 @@ public class AdMOBManager : MonoBehaviour
         MonoBehaviour.print("HandleRewardBasedVideoClosed event received");
 
         //RequestVideoAd();
-        OnEndRewarded_AdMob.Invoke();
+        //OnEndRewarded_AdMob.Invoke();
     }
 
     public void HandleRewardBasedVideoRewarded(object sender, Reward args)

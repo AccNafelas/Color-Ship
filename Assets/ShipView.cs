@@ -15,9 +15,10 @@ public class ShipView : MonoBehaviour
     public Text valueTxt;
     public Image selectedCovert;
     public Image coinImg;
-    public Image fullMarcImg;
-    public Image priceMarcImg;
+    public GameObject fullMarcImg;
+    public GameObject priceMarcImg;
     public GameObject selectedFrame;
+    public Image selectedImgShip;
 
     [HideInInspector]
     public ShipListManager listManager;
@@ -32,6 +33,81 @@ public class ShipView : MonoBehaviour
     {
 
     }
+
+    
+
+    public void SetUp(ShipViewBluePrint newBP,ShipListManager manager)
+    {
+        this.listManager = manager;
+
+        this.BP = newBP;
+        if (BP == null)
+        {
+            print("No tengo BluePrint");
+            return;
+        }
+
+        BP.shipIndex = index;
+        IsOwned();
+
+        shipImg.sprite = BP.shipImg;
+        selectedImgShip.sprite = BP.shipImg;
+
+        if (BP.owned)
+        {
+            valueTxt.gameObject.SetActive(false);
+            coinImg.gameObject.SetActive(false);
+
+            fullMarcImg.gameObject.SetActive (true);
+            priceMarcImg.gameObject.SetActive(false);
+        }
+        else
+        {
+            valueTxt.gameObject.SetActive(true);
+            valueTxt.text = BP.shipValue.ToString();
+            coinImg.gameObject.SetActive(true);
+
+            fullMarcImg.gameObject.SetActive(false);
+            priceMarcImg.gameObject.SetActive(true);
+        }
+      
+    }
+
+    public void SetUp(ShipViewBluePrint newBP)
+    {
+        this.BP = newBP;
+        if (BP == null)
+        {
+            print("No tengo BluePrint");
+            return;
+        }
+
+        BP.shipIndex = index;
+        IsOwned();
+
+        shipImg.sprite = BP.shipImg;
+        selectedImgShip.sprite = BP.shipImg;
+
+        if (BP.owned)
+        {
+            valueTxt.gameObject.SetActive(false);
+            coinImg.gameObject.SetActive(false);
+
+            fullMarcImg.gameObject.SetActive(true);
+            priceMarcImg.gameObject.SetActive(false);
+        }
+        else
+        {
+            valueTxt.gameObject.SetActive(true);
+            valueTxt.text = BP.shipValue.ToString();
+            coinImg.gameObject.SetActive(true);
+
+            fullMarcImg.gameObject.SetActive(false);
+            priceMarcImg.gameObject.SetActive(true);
+        }
+
+    }
+
 
     public void IsOwned()
     {
@@ -58,61 +134,37 @@ public class ShipView : MonoBehaviour
 
     }
 
-    public void SetUp(ShipViewBluePrint newBP,ShipListManager manager)
+    public void ShowCovert()
     {
-        this.listManager = manager;
-
-        this.BP = newBP;
-        if (BP == null)
+        if (!BP.owned)
         {
-            print("No tengo BluePrint");
-            return;
-        }
+            selectedCovert.gameObject.SetActive(true);
 
-        BP.shipIndex = index;
-        IsOwned();
-
-        shipImg.sprite = BP.shipImg;
-
-        if (BP.owned)
-        {
             valueTxt.gameObject.SetActive(false);
             coinImg.gameObject.SetActive(false);
-
-            fullMarcImg.gameObject.SetActive (true);
-            priceMarcImg.gameObject.SetActive(false);
         }
         else
         {
-            valueTxt.gameObject.SetActive(true);
-            valueTxt.text = BP.shipValue.ToString();
-            coinImg.gameObject.SetActive(true);
+            selectedFrame.gameObject.SetActive(true);
 
-            fullMarcImg.gameObject.SetActive(false);
-            priceMarcImg.gameObject.SetActive(true);
+            valueTxt.gameObject.SetActive(false);
+            coinImg.gameObject.SetActive(false);
         }
       
-    }
-
-    public void ShowCovert()
-    {
-        selectedCovert.gameObject.SetActive(true);
-
-        valueTxt.gameObject.SetActive(false);
-        coinImg.gameObject.SetActive(false);
-
-       // CoinsManager.instance.hideCoins();
     }
 
     public void HideCovert()
     {
         selectedCovert.gameObject.SetActive(false);
 
-        valueTxt.gameObject.SetActive(true);
-        coinImg.gameObject.SetActive(true);
+        selectedFrame.gameObject.SetActive(false);
 
-        //CoinsManager.instance.showCoins();
+        SetUp(this.BP);
 
+        //valueTxt.gameObject.SetActive(true);
+        //coinImg.gameObject.SetActive(true);
+
+    
     }
 
     public void HandleButtonDown()

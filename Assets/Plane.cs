@@ -24,14 +24,22 @@ public class Plane : MonoBehaviour
     [Header("Rotation")]
     public float rotSpeed = 3f;
 
-    [Header("Animations")]
-    public Animator animator;
-    public string takeOffName = "TakeOff";
-    public string arriveName = "Arrive";
-    public float takeoffAnimDuration;
-    public string deadName = "Dead";
-    public float deadTime = 0.25f;
-    public float timeToShowEndPanel = 0.5f;
+    //[Header("Animations")]
+    //public Animator animator;
+    //public string takeOffName = "TakeOff";
+    //public string arriveName = "Arrive";
+    //public float takeoffAnimDuration;
+    //public string deadName = "Dead";
+    //public float deadTime = 0.25f;
+    //public float timeToShowEndPanel = 0.5f;
+
+    [Header("Dead")]
+    public GameObject deadObj;
+
+
+    [Header("Fire")]
+    public GameObject fireObj;
+
 
     [Header("Different Ship")]
     public SpriteRenderer SR;
@@ -152,8 +160,8 @@ public class Plane : MonoBehaviour
        
         canFly = false;
 
-        animator.SetTrigger(takeOffName);
-        yield return new WaitForSeconds(takeoffAnimDuration);
+        //animator.SetTrigger(takeOffName);
+        //yield return new WaitForSeconds(takeoffAnimDuration);
 
         SoundManager.instance.PlayFly();
 
@@ -177,7 +185,7 @@ public class Plane : MonoBehaviour
             nextPoint = WayPointsManager.instance.GetFirstPoint(); // get next Point
             waitingForNext = true;
 
-            animator.SetTrigger(arriveName);
+            //animator.SetTrigger(arriveName);
 
             yield return new WaitForSeconds(timeToFlyAgain);
             canFly = true;
@@ -295,14 +303,14 @@ public class Plane : MonoBehaviour
             else
             {
                 Debug.Log("Perdiste, tocaste a:  " + colorElemment.gameObject.name);
-                animator.SetTrigger(deadName);
+                //animator.SetTrigger(deadName);
                 SoundManager.instance.PlayCrash();
 
                 alive = false;
                 inGame = false;
 
                 shipColl.enabled = false;
-                Invoke("CallDeadRoutine", deadTime);
+                Invoke("CallDeadRoutine", 0f);
             }
         }
 
@@ -315,7 +323,18 @@ public class Plane : MonoBehaviour
 
     IEnumerator DeadCoroutine()
     {
-        yield return new WaitForSeconds(timeToShowEndPanel );
+        //yield return new WaitForSeconds(timeToShowEndPanel );
+
+        fireObj.SetActive (false);
+        SR.enabled = false;
+
+
+        var exp = Instantiate(deadObj, this.transform.position, Quaternion.identity);
+        exp.GetComponent<SpriteRenderer>().color = this.currColor.color;
+
+        yield return new WaitForSeconds(1f);
+
+       
 
         OnDead.Invoke();
         //for (int i = 0; i < this.transform.childCount; i++)
@@ -336,9 +355,11 @@ public class Plane : MonoBehaviour
 
     public void Resurect()
     {
+        fireObj.SetActive(true);
+        SR.enabled = true;
 
 
-        animator.CrossFade("Resurect", 0.01f);
+        //animator.CrossFade("Resurect", 0.01f);
         Vector3 pos = this.transform.position;
         pos = nextPoint.transform.position;
         this.transform.position = pos;
@@ -382,6 +403,15 @@ public class Plane : MonoBehaviour
         currBP = shipBP;
         SR.sprite = currBP.shipImg;
         imgTransCont.localScale = shipBP.spriteSize;
+
+        if (shipBP.useFire)
+        {
+            fireObj.SetActive(true);
+        }
+        else
+        {
+            fireObj.SetActive(false);
+        }
     }
 
 

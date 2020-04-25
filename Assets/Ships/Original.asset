@@ -17,3 +17,4 @@ MonoBehaviour:
   spriteSize: {x: 0.5, y: 0.5}
   shipImg: {fileID: 21300000, guid: b30b2cf5920321e4d90e23df1a926848, type: 3}
   shipValue: 0
+  useFire: 1

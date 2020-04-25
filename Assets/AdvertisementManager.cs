@@ -43,6 +43,8 @@ public class AdvertisementManager : MonoBehaviour
     {
         AwakeSingleton();
 
+        AwakeConfig();
+
     }
 
     void AwakeSingleton()
@@ -290,10 +292,13 @@ public class AdvertisementManager : MonoBehaviour
 
                 break;
             case ConfigOrigin.Remote:
-               this.useAds = ConfigManager.appConfig.GetBool("Use Ads");
 
-                //ad test mode
-                //and Admob and IS rate
+                this.useAds = ConfigManager.appConfig.GetBool("Use Ads");
+                this.TestMode = ConfigManager.appConfig.GetBool("Testing");
+
+                this.percentBanner = ConfigManager.appConfig.GetInt("AdMob_Banner");
+                this.percentInterestitial = ConfigManager.appConfig.GetInt("AdMob_Inter");
+                this.percentReward = ConfigManager.appConfig.GetInt("AdMob_Rewarded");
 
                 break;
             default:

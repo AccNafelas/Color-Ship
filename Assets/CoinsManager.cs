@@ -45,17 +45,21 @@ public class CoinsManager : MonoBehaviour
         }
 
         globalCoins = myCoins;
+        UpdateCoinsUI();
+    }
+
+    public void UpdateCoinsUI()
+    {
         currentCoins.text = globalCoins.ToString();
     }
 
 
-
-    public void showCoins() {
+    public void ShowCoins() {
         myCoinsUI.gameObject.SetActive(true);
 
     }
 
-    public void hideCoins() {
+    public void HideCoins() {
         myCoinsUI.gameObject.SetActive(false);
     }
 
@@ -77,9 +81,10 @@ public class CoinsManager : MonoBehaviour
                 break;
         }
 
-        GetCurrentCoins();
         PlayerPrefs.SetInt("myCoins", globalCoins);
         PlayerPrefs.Save();
+
+        UpdateCoinsUI();
 
     }
 

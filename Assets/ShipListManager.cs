@@ -50,7 +50,9 @@ public class ShipListManager : MonoBehaviour
         CreateShipViewList();
 
         selectedShip = FindByBluePrint ( GetLastSelected() );
-        selectedShip.selected = true;
+        //selectedShip.selected = true;
+        ChangeSelectedShip(selectedShip);
+        selectedShip.OnSelect();
     }
 
     private void OnDisable()
@@ -68,6 +70,10 @@ public class ShipListManager : MonoBehaviour
             infoScript.index = ind;
             //infoScript.BP.shipIndex = ind;
 
+            if (infoScript.name == "Original")
+            {
+                infoScript.BP.owned = true;
+            }
 
             infoScript.SetUp(item,this);
             shipsViews.Add(infoScript);
@@ -151,7 +157,12 @@ public class ShipListManager : MonoBehaviour
     {
         if (PlayerPrefs.HasKey("LastShipSelected"))
         {
-            PlayerPrefs.SetString("LastShipSelected", selectedShip.BP.name);
+            if (selectedShip.BP.owned)
+            { PlayerPrefs.SetString("LastShipSelected", selectedShip.BP.name); }
+            else
+            {
+                return;
+            }
         }
         else
         {
@@ -179,8 +190,9 @@ public class ShipListManager : MonoBehaviour
         {
             if (item.BP.name == name)
             {
-                return item.BP;
+                original = item.BP;
             }
+           
         }
 
         return original;

@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e6ea881b7be20747b88eecab3876e4e, type: 3}
   m_Name: 8
   m_EditorClassIdentifier: 
-  shipIndex: 8
-  owned: 0
-  spriteSize: {x: 0.3, y: 0.3}
+  shipIndex: 7
+  owned: 1
+  spriteSize: {x: 1.5, y: 1.5}
   shipImg: {fileID: -364411600643877447, guid: c8c85bb4da6230b4dbcb64fbc12c75ef, type: 3}
-  shipValue: 5
+  shipValue: 90
+  useFire: 0

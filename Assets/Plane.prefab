@@ -252,13 +252,8 @@ MonoBehaviour:
   impulseDelay: 0
   arriveDelay: 0.2
   rotSpeed: 20
-  animator: {fileID: 6134433004627872473}
-  takeOffName: TakeOff
-  arriveName: Arrive
-  takeoffAnimDuration: 0.1
-  deadName: Dead
-  deadTime: 0.25
-  timeToShowEndPanel: 1
+  deadObj: {fileID: 3578550334185173828, guid: 83522d58954327e4fa362648e7433c23, type: 3}
+  fireObj: {fileID: 6134433003492192756}
   SR: {fileID: 6134433004462313041}
   imgTransCont: {fileID: 6134433004462313042}
   currBP: {fileID: 11400000, guid: 6be612fb8a36b204c9039f26e61322c5, type: 2}
@@ -489,6 +484,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 191e5ae833f999445b21830e62f51d18, type: 3}
+--- !u!1 &6134433003492192756 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7907201823638471898, guid: 191e5ae833f999445b21830e62f51d18,
+    type: 3}
+  m_PrefabInstance: {fileID: 4079668053306996014}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6134433003492192763 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7907201823638471893, guid: 191e5ae833f999445b21830e62f51d18,

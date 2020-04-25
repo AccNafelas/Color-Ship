@@ -11,5 +11,6 @@ public class ShipViewBluePrint : ScriptableObject
     public Vector2 spriteSize= new Vector2(0.3f,0.3f);
     public Sprite shipImg;
     public int shipValue = 100;
+    public bool useFire = false;
 
 }
